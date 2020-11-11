@@ -1,0 +1,1 @@
+For diabetic dataset three models are created using Logistic Rgression,KNN and Decision Tree .From this three models we got best  accuracy score from Logistic Regression i.e., 82% .
