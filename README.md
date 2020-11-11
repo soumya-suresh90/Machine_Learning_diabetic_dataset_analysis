@@ -1,2 +1,2 @@
-# hello-ml-word
+# diabetic_analysis 
 New repository
