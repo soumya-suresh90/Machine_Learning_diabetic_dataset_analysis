@@ -1,0 +1,16 @@
+Use case
+========
+Build predictive model.
+	Use given training data set and build multiple models (Logistic, Knn and Decision Tree) and choose a better model to predict if the petient is diabetic or not.
+
+ 
+perform any necessory actions/Analysis to build a model but below techniques to be applied while building model.
+
+-	Use SimpleImputer to fill null values
+-	Use RandomSearch CV for hyperparameter tuning
+-	Check IF YOU CAN select best features using PCA and can improve accuracy.
+-	F1 score for all 3 models.
+-	Plot roc curve and choose best model among Logistic Regression, Knn and Decision tree.
+-	Every cell in your notebook should have explaination about what you are trying to achieve in that perticular cell.
+- 	Your conclusion based on your analysis.
+ 
